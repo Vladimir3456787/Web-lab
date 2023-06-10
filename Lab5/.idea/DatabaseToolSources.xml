@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseToolSources">
+    <data-source name="localhost" uuid="c5b762a1-9d23-40c1-a83f-c11f523d7e1a" type="MYSQL">
+      <base-info connect-type="DB_DEFAULT" product="MySQL" version="8.0.33" jdbc-name="MySQL Connector/J" jdbc-version="mysql-connector-java-8.0.25 (Revision: 08be9e9b4cba6aa115f9b27b215887af40b159e0)" />
+      <user-name>Bd</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="mysql" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+      <url>jdbc:mysql://localhost:3306/?useSSL=false&amp;serverTimezone=Asia/Krasnoyarsk?useSSL=false&amp;serverTimezone=Asia/Krasnoyarsk?useSSL=false&amp;serverTimezone=Asia/Krasnoyarsk?useSSL=false&amp;serverTimezone=Asia/Krasnoyarsk?useSSL=false&amp;serverTimezone=Asia/Krasnoyarsk?useSSL=false&amp;serverTimezone=Asia/Krasnoyarsk?useSSL=false&amp;serverTimezone=Asia/Krasnoyarsk</url>
+      <remarks />
+      <driver-info id="mysql8" />
+      <ssh-properties enabled="false" />
+      <ssl-config enabled="false">
+        <uuid />
+        <caFile />
+        <clientCertificateFile />
+        <clientKeyFile />
+        <sslMode>REQUIRE</sslMode>
+      </ssl-config>
+    </data-source>
+  </component>
+</project>
